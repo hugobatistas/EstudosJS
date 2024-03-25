@@ -7,12 +7,12 @@ let segunVar;
 
 console.log(`O valor da minha primeira variavel vale ${primaVar}`);
 
-segunVar = 23;
+segunVar = 1.504;
 
 console.log(`Minha segunda variavel vale ${segunVar}`);
 console.log(`O valor da soma das minhas duas variaveis sera ${primaVar + segunVar}`);
 
-segunVar = segunVar ** 2;
+segunVar = segunVar ** 5;
 console.log(segunVar);
 segunVar = segunVar / 3;
 console.log(segunVar);
